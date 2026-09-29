@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://sonora-music-app-fgmj.onrender.com/api/:path*"
+    }
+  ]
+}
